@@ -1,0 +1,7 @@
+det_model_dir=C:/字幕识别/det
+rec_model_dir=C:/字幕识别/rec
+cls_model_dir=C:/字幕识别/cls
+use_angle_cls=true
+lang=ch
+use_gpu=false
+enable_mkldnn=true 

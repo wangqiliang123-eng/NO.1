@@ -1,0 +1,16 @@
+{
+  "name": "subtitle-tool",
+  "version": "1.0.0",
+  "description": "字幕提取工具",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "electron": "^latest"
+  },
+  "devDependencies": {
+    "electron-builder": "^latest"
+  }
+} 
